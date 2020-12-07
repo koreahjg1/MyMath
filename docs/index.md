@@ -2,7 +2,7 @@
 
 ![Examples](crowd_chi2019.png)
 
-## Intro
+## Introduction
 
 As teachable machines allow non-experts to personalize a machine learning model with their training samples,
 the performance of a personalized model is affected by the user's teaching strategy. 

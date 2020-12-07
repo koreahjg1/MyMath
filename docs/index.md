@@ -111,12 +111,6 @@ This dataset is licensed under a [Creative Commons Attribution 4.0 International
 This work is supported by NSF (#1816380). 
 
 
-## Our results on TEgO
-Following is the performance of our hand-guided object recognition system on TEgO.  It shows the average recall per object in two different environments (vanilla and wild).  The results were generated with our hand-guided object recognizer that was trained with images cropped by our object localization model.
-
-![Average recall per object in two different environments (vanilla and wild).  The results were generated with our hand-guided object recognizer that was trained with images cropped by our object localization model.](recall_per_object_scaled.png)
-
-
 ## Contact
 If you have any questions, please contact Jonggi Hong ([jhong12@umd.edu](jhong12@umd.edu)).
 
